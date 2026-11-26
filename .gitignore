@@ -1,3 +1,4 @@
-".env" 
-"__pycache__/" 
-"outputs/cache/" 
+.env
+__pycache__/
+outputs/
+runs.jsonl

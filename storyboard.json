@@ -1,0 +1,166 @@
+{
+  "title": "Mapping Home",
+  "logline": "A teacher's son from Leka Dulecha grows up learning the map of his land, and becomes the engineer who connects it.",
+  "audience": "Gemechu's family and Oromo friends at home and in the diaspora, watching on their phones.",
+  "intent": "Viewers feel pride in where they come from, and see that a teacher's lessons travel forward into his son's work.",
+  "language": { "code": "om", "name": "Afaan Oromo" },
+  "subtitle_language": { "code": "en", "name": "English" },
+  "voice": {
+    "name": "Kore",
+    "style": "Speak warmly and unhurriedly, like a son telling his family's story to them"
+  },
+  "style_block": "warm hand-painted illustration, soft golden light, gentle film grain, earthy greens and ochres, calm and dignified mood, subject centred in frame, no text, no letters, no words",
+  "characters": {
+    "gemechu_adult": {
+      "description": "a young Ethiopian Oromo man in his late twenties, short black hair, slim build, light blue button-up shirt"
+    },
+    "gemechu_child": {
+      "description": "a ten-year-old Ethiopian Oromo boy, short black hair, bright curious eyes, faded white school shirt"
+    },
+    "father": {
+      "description": "an Ethiopian Oromo man in his fifties, a schoolteacher, short greying hair, kind serious face, simple dark jacket"
+    },
+    "mother": {
+      "description": "an Ethiopian Oromo woman in her late forties, gentle smile, white cotton dress, light headscarf"
+    }
+  },
+  "music": {
+    "cues": [
+      { "id": "m1", "start_s": 0, "end_s": 22, "description": "sparse plucked strings, gentle and hopeful, slow, instrumental" },
+      { "id": "m2", "start_s": 22, "end_s": 52, "description": "the same theme with soft hand percussion, steady forward motion, instrumental" },
+      { "id": "m3", "start_s": 52, "end_s": 74, "description": "the opening theme returns warmer and fuller, then resolves softly, instrumental" }
+    ]
+  },
+  "shots": [
+    {
+      "id": "s01",
+      "duration_s": 8,
+      "shot_size": "extreme_wide",
+      "reason": "Establishes home: the hills where everything begins.",
+      "characters": [],
+      "image_prompt": "rolling green hills of East Wollega at dawn, mist in the valleys, a small round house with a thatched roof, thin smoke rising, eucalyptus trees",
+      "motion": { "type": "wan", "direction": "in" },
+      "motion_prompt": "slow push-in, mist drifting, smoke rising gently, fixed horizon",
+      "narration_en": "I was born in 1998, in Leka Dulecha, East Wollega.",
+      "narration": "",
+      "seed": 1001
+    },
+    {
+      "id": "s02",
+      "duration_s": 7,
+      "shot_size": "medium",
+      "reason": "Introduces the father, the teacher whose lessons shape the film.",
+      "characters": ["father"],
+      "image_prompt": "a teacher standing at a chalkboard in a simple rural classroom, a chalk outline of a map with no words, morning light through a window",
+      "motion": { "type": "kenburns", "direction": "in" },
+      "motion_prompt": "he turns slightly toward the class, chalk dust in the light, camera static",
+      "narration_en": "My father, Bulti Firissa, is a teacher of geography and history.",
+      "narration": "",
+      "seed": 1002
+    },
+    {
+      "id": "s03",
+      "duration_s": 7,
+      "shot_size": "close_up",
+      "reason": "The boy receiving the lesson the whole film is built on.",
+      "characters": ["gemechu_child"],
+      "image_prompt": "a boy sitting at an old wooden school desk, chin resting on his hand, listening closely",
+      "motion": { "type": "kenburns", "direction": "in" },
+      "motion_prompt": "slow push-in on his face, he blinks and smiles slightly",
+      "narration_en": "From him, I learned where we come from, and how the world connects.",
+      "narration": "",
+      "seed": 1003
+    },
+    {
+      "id": "s04",
+      "duration_s": 7,
+      "shot_size": "medium",
+      "reason": "Introduces the mother and the warmth of home.",
+      "characters": ["mother"],
+      "image_prompt": "a mother by the hearth inside a family home, warm firelight, roasting coffee beans in a flat pan",
+      "motion": { "type": "wan", "direction": "out" },
+      "motion_prompt": "smoke curls from the pan, she stirs gently, camera static",
+      "narration_en": "My mother, Tujube Regasa, [TODO: one thing she did or taught you].",
+      "narration": "",
+      "seed": 1004
+    },
+    {
+      "id": "s05",
+      "duration_s": 7,
+      "shot_size": "wide",
+      "reason": "The journey begins: leaving home to study.",
+      "characters": ["gemechu_adult"],
+      "image_prompt": "a young man with a backpack standing at a university gate, city buildings behind, early morning",
+      "motion": { "type": "kenburns", "direction": "left" },
+      "motion_prompt": "he walks slowly toward the gate, camera tracks gently",
+      "narration_en": "I went to Addis Ababa to study software engineering.",
+      "narration": "",
+      "seed": 1005
+    },
+    {
+      "id": "s06",
+      "duration_s": 7,
+      "shot_size": "close_up",
+      "reason": "The motif: the father's map becomes the son's systems.",
+      "characters": ["gemechu_adult"],
+      "image_prompt": "a young man's face lit softly by a laptop screen at night, the screen facing away from the viewer",
+      "motion": { "type": "kenburns", "direction": "in" },
+      "motion_prompt": "soft screen light flickers on his face, slow push-in",
+      "narration_en": "My father mapped the land. I learned to map systems.",
+      "narration": "",
+      "seed": 1006
+    },
+    {
+      "id": "s07",
+      "duration_s": 7,
+      "shot_size": "medium",
+      "reason": "Where he is now: the work itself.",
+      "characters": ["gemechu_adult"],
+      "image_prompt": "a young man working with two colleagues in a bright modern office, looking together at a monitor that faces away from the viewer",
+      "motion": { "type": "kenburns", "direction": "right" },
+      "motion_prompt": "he points at the screen and a colleague nods, camera static",
+      "narration_en": "Today I build banking systems at Cooperative Bank of Oromia.",
+      "narration": "",
+      "seed": 1007
+    },
+    {
+      "id": "s08",
+      "duration_s": 7,
+      "shot_size": "insert",
+      "reason": "Why the work matters: it reaches families like his.",
+      "characters": [],
+      "image_prompt": "close-up of a farmer's weathered hand holding a simple smartphone, green field softly blurred behind, the screen not readable",
+      "motion": { "type": "kenburns", "direction": "in" },
+      "motion_prompt": "thumb taps the phone, shallow depth of field, gentle movement",
+      "narration_en": "So that families like mine can send money home in seconds.",
+      "narration": "",
+      "seed": 1008
+    },
+    {
+      "id": "s09",
+      "duration_s": 8,
+      "shot_size": "medium",
+      "reason": "The emotional core: back home with his parents.",
+      "characters": ["gemechu_adult", "father", "mother"],
+      "image_prompt": "a family coffee ceremony at home, a clay jebena pot and small cups, the son sitting with his father and mother on low stools",
+      "motion": { "type": "wan", "direction": "in" },
+      "motion_prompt": "steam rises from the cups, the father laughs softly, camera static",
+      "narration_en": "[TODO: a saying your father or mother repeats]",
+      "narration": "",
+      "seed": 1009
+    },
+    {
+      "id": "s10",
+      "duration_s": 9,
+      "shot_size": "extreme_wide",
+      "reason": "Returns to the opening hills to close the circle.",
+      "characters": ["gemechu_adult"],
+      "image_prompt": "sunset over the same rolling green hills of East Wollega, a young man standing small on a ridge looking out",
+      "motion": { "type": "kenburns", "direction": "out" },
+      "motion_prompt": "slow pull-out, warm light fading, grass moving in the wind",
+      "narration_en": "My father taught the history of our land. I hope to help write its future.",
+      "narration": "",
+      "seed": 1010
+    }
+  ]
+}
