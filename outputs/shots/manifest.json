@@ -1,0 +1,86 @@
+{
+  "16x9": {
+    "s01": {
+      "file": "s01_08294ab4683b0cfc.mp4",
+      "length": 8.0
+    },
+    "s02": {
+      "file": "s02_7ea46b5371cf7497.mp4",
+      "length": 7.0
+    },
+    "s03": {
+      "file": "s03_d87257f8b620b83f.mp4",
+      "length": 7.0
+    },
+    "s04": {
+      "file": "s04_27e543088535eadb.mp4",
+      "length": 7.0
+    },
+    "s05": {
+      "file": "s05_400e604598d6536d.mp4",
+      "length": 7.0
+    },
+    "s06": {
+      "file": "s06_94c6b3e276fb24df.mp4",
+      "length": 7.0
+    },
+    "s07": {
+      "file": "s07_ba393c1b1e985ca7.mp4",
+      "length": 7.0
+    },
+    "s08": {
+      "file": "s08_207e0130472f7195.mp4",
+      "length": 7.0
+    },
+    "s09": {
+      "file": "s09_1141ce5af65d9713.mp4",
+      "length": 8.0
+    },
+    "s10": {
+      "file": "s10_ad696921487d0182.mp4",
+      "length": 9.0
+    }
+  },
+  "9x16": {
+    "s01": {
+      "file": "s01_29e2048d3a030329.mp4",
+      "length": 8.0
+    },
+    "s02": {
+      "file": "s02_2f551c356680198e.mp4",
+      "length": 7.0
+    },
+    "s03": {
+      "file": "s03_4daa5f37a44971a3.mp4",
+      "length": 7.0
+    },
+    "s04": {
+      "file": "s04_548f4be338581f4f.mp4",
+      "length": 7.0
+    },
+    "s05": {
+      "file": "s05_e33908e67b99d82f.mp4",
+      "length": 7.0
+    },
+    "s06": {
+      "file": "s06_ad157318910b1bcb.mp4",
+      "length": 7.0
+    },
+    "s07": {
+      "file": "s07_196e2c75052b23fc.mp4",
+      "length": 7.0
+    },
+    "s08": {
+      "file": "s08_4e954b04da71d5db.mp4",
+      "length": 7.0
+    },
+    "s09": {
+      "file": "s09_d1a0edc640171347.mp4",
+      "length": 8.0
+    },
+    "s10": {
+      "file": "s10_c133acfc746c4ce0.mp4",
+      "length": 9.0
+    }
+  }
+}

@@ -1,4 +1,11 @@
+# secrets
 .env
+
+# python
 __pycache__/
-outputs/
-runs.jsonl
+*.pyc
+
+# scratch files written while assembling
+outputs/film/mix_raw.wav
+outputs/film/shots_*.txt
+outputs/music/placeholder.wav

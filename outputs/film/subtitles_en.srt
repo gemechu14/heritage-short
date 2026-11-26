@@ -1,0 +1,39 @@
+1
+00:00:00,500 --> 00:00:07,700
+I was born in 1998, in Leka Dulecha,
+East Wollega.
+
+2
+00:00:08,500 --> 00:00:14,700
+My father, Bulti Firissa, is a teacher
+of geography and history.
+
+3
+00:00:15,500 --> 00:00:21,700
+From him, I learned where we come from,
+and how the world connects.
+
+4
+00:00:29,500 --> 00:00:35,700
+I went to Addis Ababa to study software
+engineering.
+
+5
+00:00:36,500 --> 00:00:42,700
+My father mapped the land. I learned to
+map systems.
+
+6
+00:00:43,500 --> 00:00:49,700
+Today I build banking systems at
+Cooperative Bank of Oromia.
+
+7
+00:00:50,500 --> 00:00:56,700
+So that families like mine can send
+money home in seconds.
+
+8
+00:01:05,500 --> 00:01:13,700
+My father taught the history of our
+land. I hope to help write its future.

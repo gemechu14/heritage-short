@@ -1,0 +1,33 @@
+{
+  "caption": "instrumental film score for a short family documentary, East African feel, warm and gentle, quiet enough to sit under a spoken voice, no lead vocals. Structure: sparse plucked strings, gentle and hopeful, slow, instrumental; then the same theme with soft hand percussion, steady forward motion, instrumental; then the opening theme returns warmer and fuller, then resolves softly, instrumental.",
+  "lyrics": "[Instrumental]",
+  "instrumental": true,
+  "duration": 77,
+  "seeds": [
+    11,
+    22,
+    33
+  ],
+  "model": "acestep-v15-turbo",
+  "inference_steps": 8,
+  "cues": [
+    {
+      "id": "m1",
+      "start_s": 0,
+      "end_s": 22,
+      "description": "sparse plucked strings, gentle and hopeful, slow, instrumental"
+    },
+    {
+      "id": "m2",
+      "start_s": 22,
+      "end_s": 52,
+      "description": "the same theme with soft hand percussion, steady forward motion, instrumental"
+    },
+    {
+      "id": "m3",
+      "start_s": 52,
+      "end_s": 74,
+      "description": "the opening theme returns warmer and fuller, then resolves softly, instrumental"
+    }
+  ]
+}

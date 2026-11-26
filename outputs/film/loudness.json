@@ -1,0 +1,17 @@
+{
+  "before": {
+    "input_i": "-25.88",
+    "input_tp": "-17.58",
+    "input_lra": "1.80"
+  },
+  "after": {
+    "input_i": "-14.01",
+    "input_tp": "-5.70",
+    "input_lra": "1.70"
+  },
+  "target": {
+    "I": -14.0,
+    "TP": -1.0,
+    "LRA": 11.0
+  }
+}

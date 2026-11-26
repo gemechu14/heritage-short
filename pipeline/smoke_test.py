@@ -52,8 +52,7 @@ def main():
     # 3. TTS: speak the Oromo line.
     if tts_model:
         try:
-            secs = gemini_tts(tts_model, oromo or SAMPLE_EN, out / "tts.wav",
-                              style="Speak warmly and unhurriedly", stage="smoke")
+            secs = gemini_tts(tts_model, oromo or SAMPLE_EN, out / "tts.wav", stage="smoke")
             print(f"TTS    OK  [{tts_model}]  {secs}s -> outputs/smoke/tts.wav")
             results["tts"] = "OK"
         except Exception as exc:

@@ -1,0 +1,98 @@
+{
+  "refs": {
+    "gemechu_adult": {
+      "file": "refs/gemechu_adult_012c49c2ba35e0fa.jpg",
+      "hash": "012c49c2ba35e0fa"
+    },
+    "gemechu_child": {
+      "file": "refs/gemechu_child_a2530e09e410aefc.jpg",
+      "hash": "a2530e09e410aefc"
+    },
+    "father": {
+      "file": "refs/father_51e779c901c8ebda.jpg",
+      "hash": "51e779c901c8ebda"
+    },
+    "mother": {
+      "file": "refs/mother_4e354d8e3ccba0c2.jpg",
+      "hash": "4e354d8e3ccba0c2"
+    }
+  },
+  "shots": {
+    "s01": {
+      "file": "s01_7a88999231da7893.jpg",
+      "hash": "7a88999231da7893",
+      "seed": 1001,
+      "refs": []
+    },
+    "s02": {
+      "file": "s02_d624ceaaa30c1d0f.jpg",
+      "hash": "d624ceaaa30c1d0f",
+      "seed": 1002,
+      "refs": [
+        "father_51e779c901c8ebda.jpg"
+      ]
+    },
+    "s03": {
+      "file": "s03_dc02188afd201072.jpg",
+      "hash": "dc02188afd201072",
+      "seed": 1003,
+      "refs": [
+        "gemechu_child_a2530e09e410aefc.jpg"
+      ]
+    },
+    "s04": {
+      "file": "s04_abf63d70595f1d4d.jpg",
+      "hash": "abf63d70595f1d4d",
+      "seed": 1004,
+      "refs": [
+        "mother_4e354d8e3ccba0c2.jpg"
+      ]
+    },
+    "s05": {
+      "file": "s05_9e63c133d00dd831.jpg",
+      "hash": "9e63c133d00dd831",
+      "seed": 1005,
+      "refs": [
+        "gemechu_adult_012c49c2ba35e0fa.jpg"
+      ]
+    },
+    "s06": {
+      "file": "s06_3ce7864bef20c7f3.jpg",
+      "hash": "3ce7864bef20c7f3",
+      "seed": 1006,
+      "refs": [
+        "gemechu_adult_012c49c2ba35e0fa.jpg"
+      ]
+    },
+    "s07": {
+      "file": "s07_ba4317c5046a40ab.jpg",
+      "hash": "ba4317c5046a40ab",
+      "seed": 1007,
+      "refs": [
+        "gemechu_adult_012c49c2ba35e0fa.jpg"
+      ]
+    },
+    "s08": {
+      "file": "s08_fc2d467921880b00.jpg",
+      "hash": "fc2d467921880b00",
+      "seed": 1008,
+      "refs": []
+    },
+    "s09": {
+      "file": "s09_433e9575adbc3664.jpg",
+      "hash": "433e9575adbc3664",
+      "seed": 1009,
+      "refs": [
+        "gemechu_adult_012c49c2ba35e0fa.jpg",
+        "father_51e779c901c8ebda.jpg",
+        "mother_4e354d8e3ccba0c2.jpg"
+      ]
+    },
+    "s10": {
+      "file": "s10_d4f49b686c4131d5.jpg",
+      "hash": "d4f49b686c4131d5",
+      "seed": 1010,
+      "refs": []
+    }
+  }
+}
